@@ -1,0 +1,60 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: RGB(240,238,243) ;
+    padding-left: 50px;
+    font-family: 'Oswald';font-size: 50px;
+    
+}
+h4{
+    font-size:20px;
+    
+    color: rgb(121, 119, 121);
+
+}
+h1{
+    color: rgb(51, 49, 50);
+    font-size:60px;
+    
+
+}
+h5{
+    font-size:15px;
+    color: rgb(51, 51, 51);
+    font-weight: 150;
+    
+}
+h3{
+    color: RGB(52,50,51);
+    letter-spacing: 10px;   
+    font-size:20px;
+}
+
+
+
+.iconu ul{list-style: none;}
+.iconu ul li{display: inline-block;}
+.iconu ul li a{background-color: rgb(224, 223, 230);
+color: rgb(70, 69, 74);
+padding: 10px 20px;
+margin: 5px 5px;
+font-size: 20px;
+display: block;
+border-radius:5px;
+box-shadow: 9px 5px 10px;
+}
+
+
+.misti{
+    margin: 10px;
+    background-color: rgb(248, 245, 245);
+    display: inline-block;
+    padding: 10px 50px;
+    border-radius: 5px;
+     box-shadow: -7px -7px 20px rgb(175, 169, 169);
+    font-size: 20px;
+}
+.misti a{
+    text-decoration: none;
+    color: rgb(61, 52, 52);
+}
